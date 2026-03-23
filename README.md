@@ -44,16 +44,12 @@ See `reproduction_benchmark_v2/README.md` and `VERIFY_DB_ATCNET_VS_ATCNET.md`.
 
 ## GitHub
 
+Remote: **<https://github.com/DaFakePhoenixHK/EEG-Motor-Imagery-Thesis-reproduction-v2>**
+
 ```bash
-git init
-git add .
-git commit -m "Initial commit: BCI reproduction benchmark v2"
-git branch -M main
-git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
+git remote add origin https://github.com/DaFakePhoenixHK/EEG-Motor-Imagery-Thesis-reproduction-v2.git
 git push -u origin main
 ```
-
-Create an empty repository on GitHub first, then set `origin` to its URL.
 
 ## License
 
