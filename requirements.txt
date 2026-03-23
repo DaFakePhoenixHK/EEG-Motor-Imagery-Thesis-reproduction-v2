@@ -1,0 +1,7 @@
+# BCI IV-2a reproduction benchmark v2 (TensorFlow 2.x)
+tensorflow>=2.9,<2.19
+numpy>=1.23
+scipy>=1.10
+scikit-learn>=1.0
+matplotlib>=3.5
+mne>=1.0
