@@ -17,6 +17,8 @@ This is a clean copy of `reproduction_benchmark_v2` plus minimal dependencies (n
 
 ## Setup
 
+**New PC with nothing installed?** See **[SETUP_NEW_PC.md](SETUP_NEW_PC.md)** (Windows checklist: Git, Python, venv, pip, data).
+
 ```bash
 cd file_ver2
 python -m venv .venv
